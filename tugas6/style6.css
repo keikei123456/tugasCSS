@@ -1,0 +1,16 @@
+.satu {
+  width: 500px;
+  height: 150px;
+  border: 10px dotted red;
+}
+.dua {
+  width: 500px;
+  height: 150px;
+  border: 5px solid green;
+}
+
+.tiga {
+  width: 500px;
+  height: 150px;
+  border: 20px dashed blue;
+}

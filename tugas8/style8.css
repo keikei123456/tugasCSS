@@ -1,0 +1,25 @@
+body {
+  background-image: url("https://www.teahub.io/photos/full/66-667321_bts-concert-wallpaper-hd.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+}
+.bg {
+  background-image: url("avocado.jpg");
+  background-repeat: repeat-y;
+  background-color: #ffffff;
+  width: 600px;
+  height: 300px;
+  overflow: scroll;
+}
+.satu {
+  color: blue;
+  text-align: right;
+}
+.dua {
+  color: green;
+  text-align: left;
+}
+.tiga {
+  color: red;
+  text-align: justify;
+}

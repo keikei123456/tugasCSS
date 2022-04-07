@@ -1,0 +1,27 @@
+* {
+  margin: 0%;
+}
+
+img {
+  width: 100%;
+  height: auto;
+  margin: 0 auto;
+  position: relative;
+  display: block;
+  z-index: -1;
+}
+.uh {
+  float: right;
+  width: 700px;
+  height: 800px;
+  display: block;
+}
+.paragraf {
+  position: absolute;
+  top: 0;
+  background-color: white;
+  z-index: 1;
+  padding: 10px;
+  margin: 20px;
+  text-align: right;
+}

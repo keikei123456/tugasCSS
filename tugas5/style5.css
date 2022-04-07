@@ -1,0 +1,17 @@
+.div_menu {
+  text-decoration: none;
+  background-color: black;
+  text-transform: uppercase;
+  margin-bottom: 5px;
+}
+a {
+  color: #ffffff;
+}
+.footer {
+  text-align: center;
+  background-color: black;
+  color: #ffffff;
+}
+.slider-div {
+  text-align: center;
+}
